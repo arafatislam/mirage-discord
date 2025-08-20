@@ -321,6 +321,7 @@ button.vc-ranb-button.button__201d5.lookFilled__201d5.sizeMin__201d5.grow__201d5
 .popout__76f04 /* channel hover popout */,
 .container_fc561d /* recents popup */,
 .channelHeader__35a7e /* recents popup sticky header*/,
+.streamPreview__6da2d /* stream preview hover */,
 #mentions-filter /* mentions filter */ {
 	background: rgba(0, 0, 0, 0.25);
 	backdrop-filter: blur(var(--blur-other));
