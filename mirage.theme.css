@@ -325,7 +325,8 @@ button.vc-ranb-button.button__201d5.lookFilled__201d5.sizeMin__201d5.grow__201d5
 .streamPreview__6da2d /* stream preview hover */,
 .container__53cea  /* mannage account popup */,
 .filterOverlay__1feb0  /* shop filters */,
-.contentWrapper__08434 /* Gif/Sticker/Emoji*/ {
+.contentWrapper__08434 /* Gif/Sticker/Emoji*/
+#popout_4310 /*post reaction*/{
 	background: rgba(0, 0, 0, 0.25);
 	backdrop-filter: blur(var(--blur-other));
 }
